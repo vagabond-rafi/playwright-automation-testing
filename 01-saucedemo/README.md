@@ -12,4 +12,4 @@ https://www.saucedemo.com/
 - Cart Functionality
 - Checkout Testing
 - Functional Testing
-- UI Test
+- UI Testi
